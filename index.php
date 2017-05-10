@@ -10,7 +10,7 @@
 <br>
 <br>
 <div style='border: #ED7D2E 2px solid;width: 95%;margin-left: 2%;'>
-<img class = 'newappIcon' src='images/arriba.png' style='width: 66%;''>
+<img class = 'newappIcon' src='images/arriba.PNG' style='width: 66%;''>
 </div>
 <br>
 <div style='border: #ED7D2E 2px solid;width: 95%;margin-left: 2%;'>
@@ -90,7 +90,7 @@
 	</div>
 	<br>
 <div style='border: #ED7D2E 2px solid;width: 95%;margin-left: 2%;'>
-<img class = 'newappIcon' src='images/abajo.png'>
+<img class = 'newappIcon' src='images/abajo.PNG'>
 </div>
 <br>
 <br>
